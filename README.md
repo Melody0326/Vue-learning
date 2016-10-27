@@ -1,7 +1,7 @@
 # vue-learning
 基于面向组件的vue学习笔记
 
-崭露头角的 JavaScript 框架 Vue.js 2.0 版本已经发布
+崭露头角的 JavaScript 框架 一直关注的Vue.js 2.0 版本已经发布~\(≧▽≦)/~啦啦啦
 
 教程和官方文档请移步：
 [vue.js官方文档](https://vuejs.org/)
@@ -10,7 +10,9 @@
 [vue.js github](https://github.com/vuejs)
 
 ### 什么是vue
-Vue 是一个前端框架，Vue.js是Javascript MVVM库，它是以数据驱动和组件化的思想构建的。其特点是：
+Vue 是一个前端框架，Vue.js是Javascript MVVM库，它是以数据驱动和组件化的思想构建的。
+其特点是：
+
 1.数据绑定
 
 比如你改变一个输入框 Input 标签的值，会自动同步更新到页面上其他绑定该输入框的组件的值

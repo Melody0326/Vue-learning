@@ -1,7 +1,7 @@
 # vue-learning
 基于面向组件的vue学习笔记
 
-崭露头角的 JavaScript 框架 一直关注的Vue.js 2.0 版本已经发布~\(≧▽≦)/~啦啦啦
+崭露头角的 JavaScript 框架 Vue.js 2.0 版本已经发布~\(≧▽≦)/~啦啦啦
 
 教程和官方文档请移步：
 [vue.js官方文档](https://vuejs.org/)

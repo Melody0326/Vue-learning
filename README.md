@@ -23,7 +23,7 @@ Vue 是一个前端框架，Vue.js是Javascript MVVM库，它是以数据驱动�
 初始化工程，需要 node 环境使用 npm 安装相应的依赖包。
 
 先创建一个测试目录，在里面依次输入以下命令
-`
+```
 //初始化package.json
 npm init
 
@@ -42,10 +42,10 @@ npm install babel-preset-es2015 --save-dev
 
 //安装html loacer 的开发依赖
 npm install html-loader --save-dev
-`
+```
 
 ### webpack配置
-`
+```
 //webpack配置
 var webpack = require('webpack');
 
@@ -86,25 +86,25 @@ module.exports = {
 	    */
 	]
 }
-`
+```
 
 ### 第一个组件
 #### components/index.js
-`
+```
 module.exports = {
   template: require('../templates/index.html'),
 
   ready: function () {
   }
 };
-`
+```
 
 #### templates/index.html
-`
+```
 <h1>Index</h1>
 <hr/>
 <p>Hello Vue!</p>
-`
+```
 
 执行 webpack 构建命令
 

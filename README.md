@@ -4,6 +4,7 @@
 崭露头角的 JavaScript 框架 Vue.js 2.0 版本已经发布~\(≧▽≦)/~啦啦啦   [vue.js 2.0](https://vuejs.org/guide/)
 
 教程和官方文档请移步：
+
 [vue.js官方文档](https://vuejs.org/)
 
 [vue.js 1.0中文](https://vuejs.org.cn/)
